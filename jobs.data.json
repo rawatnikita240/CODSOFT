@@ -1,0 +1,499 @@
+[
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "mahindra",
+        "position": "receptionist",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "dehradun"
+        
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "tata",
+        "position": "tax accountant",
+        "status":"interview",
+        "worktype": " full time ",
+        "worklocation" : "pune"
+    },
+    {  
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "goenka",
+        "position": "software developer",
+        "status":"pending",
+        "worktype": " full time",
+        "worklocation" : "hyderabad"
+       
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "suzuki",
+        "position": "gst accountant",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "gaziabad"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "lenovo",
+        "position": "software developer",
+        "status":"rejected",
+        "worktype": "part time",
+        "worklocation" : "indore"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "apple",
+        "position": "charter accountant",
+        "status":"interview",
+        "worktype": " full time",
+        "worklocation" : "tamil nadu"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "google",
+        "position": "java developer",
+        "status":"rejected",
+        "worktype": " full  time",
+        "worklocation" : "banglore"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "microsoft",
+        "position": "php developer",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "gaziabad"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "intex",
+        "position": "web developer",
+        "status":"pending",
+        "worktype": " full time",
+        "worklocation" : "dehradun"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "jumbo",
+        "position": "receptionist",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "varanasi"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "oppo",
+        "position": "front end developer",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "telengana"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "tcs",
+        "position": "react developer",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "ladakh"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "honda",
+        "position": "data entry ",
+        "status":"interview",
+        "worktype": "internship",
+        "worklocation" : "sikkim"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "lakme",
+        "position": "makeup artist",
+        "status":"pending",
+        "worktype": " full time",
+        "worklocation" : "mumbai"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "loreal paris",
+        "position": "full stack developer",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "munmbai"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "yono",
+        "position": "python developer",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "jharkhand"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "baluni",
+        "position": "faridabad",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "roorke"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "xyz",
+        "position": "environment specialist",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "rajkot"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "hjk",
+        "position": "quality engineer",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "jaipur"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "hjjkk",
+        "position": "manager",
+        "status":"pending",
+        "worktype": " full time",
+        "worklocation" : "jodhpur"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "pkl",
+        "position": "hr",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "dehradun"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "hekk",
+        "position": "hr(accountant)",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "rowari"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "tenologies",
+        "position": "front end developer",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "gujarat"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "tech",
+        "position": "backend developer",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "assam"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "yhn",
+        "position": "digital marketing",
+        "status":"rejected",
+        "worktype": " full  time",
+        "worklocation" : "tripura"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "henn",
+        "position": "social marketing",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "udaipur"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "jahnn",
+        "position": "architechture",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "jharkhand"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "immme",
+        "position": "marketing",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "kerala"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "airtel",
+        "position": "receptionist",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "rohtak"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "vodafone",
+        "position": "accountant",
+        "status":"rejected",
+        "worktype": " full  time",
+        "worklocation" : "haldwani"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "qwe",
+        "position": "executive management",
+        "status":"interview",
+        "worktype": "internship",
+        "worklocation" : "himachal pradesh"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "pop",
+        "position": "senior management",
+        "status":"pending",
+        "worktype": " full  time",
+        "worklocation" : "ambala"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "upp",
+        "position": "database administrator",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "ajmer"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "ghhh",
+        "position": "sales department",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "jaislmer"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "jkl",
+        "position": "resource management",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "haryana"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "ghu",
+        "position": "it manager",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "patna"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "ytjk",
+        "position": "health deparment specialist",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "ludhiyana"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "rhnn",
+        "position": "councellor",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "chandigarh"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "thnn",
+        "position": "teacher",
+        "status":"interview",
+        "worktype": " full time",
+        "worklocation" : "hanol"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "rnnn",
+        "position": "database mangement",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "hisar"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "ujjnn",
+        "position": "business administrator",
+        "status":"interview",
+        "worktype": " full time",
+        "worklocation" : "kashmir"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "jnnnbb",
+        "position": "business management",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "jammu"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "lmmnn",
+        "position": "therepist",
+        "status":"interview",
+        "worktype": "part time",
+        "worklocation" : "surat"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "ythn",
+        "position": ".node developer",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "haridwar"
+    },
+    {
+        "createdAt":{ "$date": "2024-02-11T02:05:30.000Z"},
+        "createdBy":{ 
+            "$oid": "65d3017a4536bc1a4c417e20"
+        },
+        "company": "koll",
+        "position": "BDA",
+        "status":"interview",
+        "worktype": " full  time",
+        "worklocation" : "new delhi"
+    }
+]
